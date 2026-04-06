@@ -1,0 +1,25 @@
+{
+    "appName": "CT(Candidates Tracking) Portal End Users - B2B End Users / Candidates / Applicants Interviews API Service",
+    "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Aug 2024",
+    "mySalt": "90889ff4575280f5af56c1ca1aab4ae7",
+    "mySaltLen": 32,
+
+    "logName": "ctpEuInterviewsApiLogger",
+    "logFilesPath": "logs/ctpeuinterviews.api.log",
+    "logDtPattern": "YYMMDD",
+    "logFilesLevel": "debug",
+
+    "mobSsnExprType": "days",
+    "mobSsnExpr": 90,
+    "webSsnExprType": "days",
+    "webSsnExpr": 8,
+    "otpSsnExprType": "minutes",
+    "otpSsnExpr": 10,
+
+    "collB2BEuInterviewFeedbacks": "b2b_eu_intrvw_fdbks",
+    "collB2BEuInterviewFollowups": "b2b_eu_intrvw_flwups",
+    "collB2BEuInterviews": "b2b_eu_intrvws",
+    "collB2BEuInterviewsClsd": "b2b_eu_intrvws_clsd",
+    "collB2BEuInterviewsLcs": "b2b_eu_intrvws_lcs",
+    "collB2BEuInterviewStsLcs": "b2b_eu_intrvw_sts_lcs"
+}

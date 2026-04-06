@@ -1,0 +1,26 @@
+{
+    "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Aug 2024",
+
+    "200": "Success",
+    "204": "No data found",
+
+    "100": "Invalid credentials",
+    "101": "Invalid User ID / Email",
+    "102": "Wrong Password",
+    "103": "Uniqueness error",
+    "104": "Missed Required Headers",
+    "150": "Account blocked",
+    "151": "Account hold",
+    "152": "Account inactive",
+    "189": "Session error",
+    "190": "Token Expired",
+    "191": "Invalid Token",
+    "192": "Token is required",
+    "193": "You do not have access",
+    "194": "Delete Trx failed",
+    "195": "Update Trx failed",
+    "196": "Save Trx failed",
+    "197": "Record already exist",
+    "198": "Provide required field(s) data",
+    "199": "An un-known error occurred on the server side"
+}

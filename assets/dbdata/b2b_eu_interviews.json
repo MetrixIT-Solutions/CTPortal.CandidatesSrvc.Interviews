@@ -1,0 +1,16 @@
+[
+  {
+
+    "delFlag": false,
+    "cuType": "Admin",
+    "cUser": "CTPADU100001",
+    "cuName": "Super Admin",
+    "cDate": ISODate("2024-08-10T11:27:16.000+05:30"),
+    "cDtStr": "2024-08-10 05:57:16",
+    "uuType": "Admin",
+    "uUser": "CTPADU100001",
+    "uuName": "Super Admin",
+    "uDate": ISODate("2024-08-10T11:27:16.000+05:30"),
+    "uDtStr": "2024-08-10 05:57:16"
+  }
+]

@@ -1,0 +1,31 @@
+{
+    "license": "Copyright (C) SkillworksIT Solutions Pvt Ltd - All Rights Reserved. Unauthorized copying of this file, via any medium is strictly prohibited. Proprietary and confidential. Written by Skillworks IT <contact@skillworksit.com>, Aug 2024",
+    "mongoDBConnection": "mongodb://localhost:8127/ctpsw_b2b_eu_intrvws",
+
+    "senderMail": "skillworksit@gmail.com",
+    "senderMailPswd": "nvkldrtevztbkvyv",
+    "smtp": "smtp.gmail.com",
+    "smtpPort": 465,
+    "from": "NoReply<skillworksit@gmail.com>",
+    "jwtSecretKey": "Pa8tner$actEu!&J*$D@-kv^NA|Prod",
+    "criptoTokenKey": "Eu!&J*$Dak17@^N|Ctp#Apkv126|Prod",
+    "dbSecretKey": "KvDB@K17!&*$D@^N|B2b#A22CTP|Prod",
+
+    "lclPath": "files",
+    "awsAccessKey": "AKIAZEHQA5VLHXOHWBUI",
+    "awsSecretKey": "${AWS_SECRET_ACCESS_KEY}",
+    "awsRegion": "us-east-1",
+    "awsBucketName": "live.ctportal",
+    "awsS3Bucket": "https://s3.us-east-1.amazonaws.com/live.ctportal/",
+    "awsS3Cklst": "interviews",
+
+    "ssnApi": "https://ctlvapi.skillworksit.com/oauth/ctpcust/v1/end/users/auth-user/session",
+    "ssnLogoutApi": "https://ctlvapi.skillworksit.com/oauth/ctpcust/v1/end/users/auth-logout",
+    "putEuSubmsnStatusUpdateApi": "https://ctlvapi.skillworksit.com/submsns/ctpeu/v1/eusr/submission/status/update/",
+    "putEuStatusUpdateApi": "https://ctlvapi.skillworksit.com/users/ctpeu/v1/eusr/status/update",
+
+    "getSmtpDetailsApi": "https://ctb2blvapi.skillworksit.com/orgs/ctpb2b/v1/entities/get/smtp/details",
+    "postNtfcCreatApi": "https://ctb2blvapi.skillworksit.com/users/ctpb2b/v1/euser/notifications/create",
+
+    "apiHost": "https://ctlvapi.skillworksit.com/intrvws/"
+}
